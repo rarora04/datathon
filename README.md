@@ -1,5 +1,5 @@
 # datathon
-
+ 
 ## Inspiration
 
 We wanted to get into data science because we see this field as exciting, expanding, and relevant. Data science is a great way to tackle real-world challenges using the intersection of CS and Statistics. 
